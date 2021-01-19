@@ -1,0 +1,52 @@
+table{
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: rgb(155, 155, 212);
+    border-spacing: 4px; 
+    color: rgb(6, 13, 212);
+}
+tr ,td {
+    border: 1px, solid;
+    border-radius: 5px;
+    text-align: center; 
+    width: 80px;
+    height: 55px;
+}
+.vilagoskek{
+    background-color: rgb(185, 186, 253);
+    text-align: left;
+    border-radius: 5px; 
+}
+.hely{
+    background-color:rgb(155, 156, 253);
+    border-radius: 5px;
+ 
+}
+.hatter{
+    background-color: rgb(214, 214, 254);
+    border-radius: 5px; 
+}
+.szurke{
+    background-color:rgb(213, 214, 214);
+    border-radius: 5px;
+}
+.kep{
+    background-color: rgb(214, 214, 254);
+    border-radius: unset;
+    border-radius: 5px;
+    
+}
+.hatterpiros{
+    background-color: rgb(214, 214, 254);
+    color:crimson
+}
+td{
+    border: solid;
+    border-right-width: 3px;
+    border-bottom-width: 2px;
+    border-right-color: blue;
+    border-bottom-color: blue;
+    border-top: unset;
+    border-left: unset;
+    border-radius: 3px;
+}
